@@ -27,7 +27,7 @@ function Resumes() {
     <Layout>
       <Helmet>
         <title>Gio's Resume</title>
-        <meta name="description" content="Gio Chomakhashvili's resume" />
+        <meta name="description" content="Gio's resume" />
       </Helmet>
       <div className="mi-skills-area mi-section mi-padding-top">
         <div className="container">
