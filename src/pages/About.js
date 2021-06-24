@@ -59,11 +59,8 @@ function About() {
   return (
     <Layout>
       <Helmet>
-        <title>About - Chester React Personal Portfolio Template</title>
-        <meta
-          name="description"
-          content="Chester React Personal Portfolio Template About Page"
-        />
+        <title>About G</title>
+        <meta name="description" content="About G, portfolio, bio, projects." />
       </Helmet>
       <div className="mi-about-area mi-section mi-padding-top">
         <div className="container">

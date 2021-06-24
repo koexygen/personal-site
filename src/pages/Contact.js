@@ -69,7 +69,7 @@ function Contact() {
   return (
     <Layout>
       <Helmet>
-        <title>Contact - Chester React Personal Portfolio Template</title>
+        <title>Gio's Contact</title>
         <meta name="description" content="Gio's Contact" />
       </Helmet>
       <div className="mi-contact-area mi-section mi-padding-top mi-padding-bottom">
