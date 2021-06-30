@@ -4,7 +4,7 @@ const database = {
   information: {
     name: "Gio",
     aboutContent:
-      "I’m a 25 years old software engineer currently living in Tbilisi, Georgia, resident of New York, USA. I have a burning passion to create/ build projects that benefits, innovates daily life of humanity. I enjoy my professional field, the limitless potential and impact it can have, It is what pushes me every day to become a better software developer. Outside of coding, one can find me Riding my motorcycle as a hobby, gaming, join different events and thinking. I am happy to be part of humanity today, in this day and age When, it is so interesting to broaden your horizons, in every way thus, better yourself and others just by doing what you love to do.\n" +
+      "I’m a 26 years old software engineer currently living in Tbilisi, Georgia, resident of New York, USA. I have a burning passion to create/ build projects that benefits, innovates daily life of humanity. I enjoy my professional field, the limitless potential and impact it can have, It is what pushes me every day to become a better software developer. Outside of coding, one can find me Riding my motorcycle as a hobby, gaming, join different events and thinking. I am happy to be part of humanity today, in this day and age When, it is so interesting to broaden your horizons, in every way thus, better yourself and others just by doing what you love to do.\n" +
       "Just do it!",
     age: 26,
     phone: "+995 558888884",

@@ -36,8 +36,8 @@ function Portfolios() {
   return (
     <Layout>
       <Helmet>
-        <title>G's Portfolios</title>
-        <meta name="description" content="Gio's - Portfolio" />
+        <title>G's Projects</title>
+        <meta name="description" content="Gio's - Projects" />
       </Helmet>
       <div className="mi-about mi-section mi-padding-top mi-padding-bottom">
         <div className="container">
